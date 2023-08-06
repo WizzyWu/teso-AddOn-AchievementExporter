@@ -1,0 +1,13 @@
+## Title: AchievementExporter
+## Author: WizzyWu
+## APIVersion: 101037
+## Version: 0.1
+## DependsOn: LibAddonMenu-2.0>=34
+## SavedVariables: AchievementExporterSavedData
+
+JSONLib.lua
+AchievementsLogic.lua
+JSONBuilder.lua
+FileSaver.lua
+SettingsUI.lua
+AchievementExporter.lua
