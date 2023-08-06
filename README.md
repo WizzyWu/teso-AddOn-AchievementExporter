@@ -2,7 +2,9 @@
 TESO Add On AchievementExporter - AddOn that exports players achievements to proceed them in another app
 
 # How to use
-- Enable this Add On in the addons list
+- Download folder ```AchieventExporter``` with it content
+- Copy folder to ```[Documents Folder]\Elder Scrolls Online\live\SavedVariables\AddOns```
+- Enable this addon in the addons list
 - Go to addons setting -> AchievementExporter -> Press Button
 - Current achievements list will be dumped to file on logout or \reloadui command
 
